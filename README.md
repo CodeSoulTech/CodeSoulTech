@@ -1,16 +1,22 @@
-## Hi there 👋
+# CodeSoulTech 🚀
 
-<!--
-**CodeSoulTech/CodeSoulTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are a creative-tech studio blending **design + development** to build high-impact digital products.
 
-Here are some ideas to get you started:
+## What We Do
+- 🌐 Web Design & Development  
+- 🎨 UI/UX & Branding  
+- ⚡ Full-Stack Applications  
+- 📈 Startup Websites  
+- 💼 Business Portfolios  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our Mission
+Build digital experiences that look premium, load fast, and convert visitors into customers.
+
+## Tech Stack
+React • Tailwind • Node.js • Express • MongoDB • Framer Motion • EmailJS
+
+## Contact Us
+📩 contact@codesoultech.in  
+🌐 codesoultech.online  
+📷 Instagram: @codesoultech  
+💼 LinkedIn: CodeSoulTech
