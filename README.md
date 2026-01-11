@@ -16,7 +16,7 @@ Build digital experiences that look premium, load fast, and convert visitors int
 React • Tailwind • Node.js • Express • MongoDB • Framer Motion • EmailJS
 
 ## Contact Us
-📩 contact@codesoultech.in  
+📩 info@codesoultech.online
 🌐 codesoultech.online  
 📷 Instagram: @codesoultech  
 💼 LinkedIn: CodeSoulTech
